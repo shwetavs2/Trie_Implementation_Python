@@ -1,4 +1,3 @@
-# Name: Shweta Vilas Shete ,      Red id: 825897742
 
 # The Program below is the implementation of Trie Datastructure 
 
